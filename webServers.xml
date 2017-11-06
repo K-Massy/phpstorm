@@ -2,7 +2,7 @@
   <component name="WebServers">
     <option name="servers">
       <webServer id="7c3f2e50-0aa5-47f5-8f31-41c428662870" name="hkt48_c2/htdocs-sp" url="http://k1.paq.to">
-        <fileTransfer host="k1.paq.to" port="22" accessType="SFTP">
+        <fileTransfer host="k1.paq.to" port="22" privateKey="$USER_HOME$/.ssh/id_rsa" accessType="SFTP" keyPair="true">
           <advancedOptions>
             <advancedOptions dataProtectionLevel="Private" />
           </advancedOptions>
