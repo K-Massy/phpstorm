@@ -4,6 +4,9 @@
       <webServer id="4c24948b-b746-41ff-9b1e-fc08b9218ad2" name="hkt48_c2/lib" url="http://localhost">
         <fileTransfer port="0" mountedRoot="/Volumes/x/hkt48_c2/lib" accessType="MOUNT" />
       </webServer>
+      <webServer id="aa4ea164-ff9b-4595-a9b2-0599de2d8674" name="hkt48_c2_lib" url="http://sp.en1.hkt.c2.k1.qw.to">
+        <fileTransfer port="0" mountedRoot="/Volumes/x/hkt48_c2/lib" accessType="MOUNT" />
+      </webServer>
     </option>
   </component>
 </application>
