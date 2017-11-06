@@ -1,16 +1,8 @@
 <application>
   <component name="WebServers">
     <option name="servers">
-      <webServer id="7c3f2e50-0aa5-47f5-8f31-41c428662870" name="hkt48_c2/htdocs-sp" url="">
-        <fileTransfer host="k1.paq.to" port="22" privateKey="$USER_HOME$/.ssh/id_rsa" accessType="SFTP" keyPair="true">
-          <advancedOptions>
-            <advancedOptions dataProtectionLevel="Private" />
-          </advancedOptions>
-          <option name="port" value="22" />
-        </fileTransfer>
-      </webServer>
-      <webServer id="cf01917b-6dd0-42ff-8879-e75e952e8337" name="hkt48_c2" url="http://sp.en1.hkt.c2.k1.qw.to">
-        <fileTransfer port="0" mountedRoot="/Volumes/x/hkt48_c2" accessType="MOUNT" />
+      <webServer id="4c24948b-b746-41ff-9b1e-fc08b9218ad2" name="hkt48_c2/lib" url="http://localhost">
+        <fileTransfer port="0" mountedRoot="/Volumes/x/hkt48_c2/lib" accessType="MOUNT" />
       </webServer>
     </option>
   </component>
