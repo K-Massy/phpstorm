@@ -2,10 +2,14 @@
   <component name="WebServers">
     <option name="servers">
       <webServer id="4c24948b-b746-41ff-9b1e-fc08b9218ad2" name="hkt48_c2/lib" url="http://localhost">
-        <fileTransfer port="0" mountedRoot="/Volumes/x/nogizaka46_c4" accessType="MOUNT" />
+        <fileTransfer host="" port="22" accessType="SFTP">
+          <option name="port" value="22" />
+        </fileTransfer>
       </webServer>
       <webServer id="70e0ab16-e629-4ed3-9d90-6dfae3fa1981" name="hkt48_c2/view-sp" url="http://localhost">
-        <fileTransfer port="0" mountedRoot="/Volumes/x/hkt48_c2/view-sp" accessType="MOUNT" />
+        <fileTransfer host="" port="22" accessType="SFTP">
+          <option name="port" value="22" />
+        </fileTransfer>
       </webServer>
     </option>
   </component>
