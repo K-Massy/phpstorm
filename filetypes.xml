@@ -3,6 +3,7 @@
     <extensionMap>
       <mapping ext="tsv" type="PLAIN_TEXT" />
       <mapping ext="ctp" type="PLAIN_TEXT" />
+      <mapping pattern="q_deploy" type="Perl5 package" />
     </extensionMap>
   </component>
 </application>
