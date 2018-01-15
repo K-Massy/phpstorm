@@ -1,6 +1,7 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
+      <mapping pattern=".edit.ctp.swp" type="PLAIN_TEXT" />
       <mapping ext="tsv" type="PLAIN_TEXT" />
       <mapping ext="ctp" type="PLAIN_TEXT" />
       <mapping pattern="q_deploy" type="Perl5 package" />
