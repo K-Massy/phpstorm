@@ -8,6 +8,7 @@
       <mapping ext="c1" type="PLAIN_TEXT" />
       <mapping ext="ctp" type="PLAIN_TEXT" />
       <mapping pattern="q_deploy" type="Perl5 package" />
+      <mapping pattern="qlogin_docomo" type="Perl5 script" />
     </extensionMap>
   </component>
 </application>
