@@ -9,6 +9,8 @@
       <mapping pattern="htdocs-sp/leaf/mymenu-inherit/q" type="PLAIN_TEXT" />
       <mapping pattern="q" type="PLAIN_TEXT" />
       <mapping ext="tsv" type="PLAIN_TEXT" />
+      <mapping ext="c4_bk" type="PLAIN_TEXT" />
+      <mapping ext="c4" type="PLAIN_TEXT" />
       <mapping ext="c1" type="PLAIN_TEXT" />
       <mapping ext="ctp" type="PLAIN_TEXT" />
       <mapping pattern="q_deploy" type="Perl5 package" />
