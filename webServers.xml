@@ -1,8 +1,8 @@
 <application>
   <component name="WebServers">
     <option name="servers">
-      <webServer id="fa32c4a0-6ca0-4173-8319-9447812b8629" name="aws_web" url="http://52.42.146.50">
-        <fileTransfer host="52.42.146.50" port="22" privateKey="$USER_HOME$/.ssh/my-keypair.pem" rootFolder="/var/www" accessType="SFTP" keyPair="true">
+      <webServer id="fa32c4a0-6ca0-4173-8319-9447812b8629" name="ngz_admin_master" url="http://k1.paq.to">
+        <fileTransfer host="k1.paq.to" port="22" privateKey="$USER_HOME$/.ssh/id_rsa" rootFolder="/x/ngz/ngz" accessType="SFTP" keyPair="true">
           <advancedOptions>
             <advancedOptions dataProtectionLevel="Private" />
           </advancedOptions>
