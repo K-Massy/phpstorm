@@ -1,8 +1,8 @@
 <application>
   <component name="WebServers">
     <option name="servers">
-      <webServer id="fa32c4a0-6ca0-4173-8319-9447812b8629" name="ngz_admin_master" url="http://k1.paq.to">
-        <fileTransfer host="k1.paq.to" port="22" privateKey="$USER_HOME$/.ssh/id_rsa" rootFolder="/x/ngz/ngz" accessType="SFTP" keyPair="true">
+      <webServer id="fa32c4a0-6ca0-4173-8319-9447812b8629" name="kisekaelab-akb48-web_ck1" url="http://ck1.paq.to">
+        <fileTransfer host="ck1.paq.to" port="22" privateKey="$USER_HOME$/.ssh/id_rsa" rootFolder="/x/kisekaeLab_akb48" accessType="SFTP" keyPair="true">
           <advancedOptions>
             <advancedOptions dataProtectionLevel="Private" />
           </advancedOptions>
