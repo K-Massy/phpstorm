@@ -13,6 +13,7 @@
       <mapping ext="c4" type="PLAIN_TEXT" />
       <mapping ext="c1" type="PLAIN_TEXT" />
       <mapping ext="ctp" type="PLAIN_TEXT" />
+      <mapping ext="pl_20180905" type="PLAIN_TEXT" />
       <mapping pattern="q_deploy" type="Perl5 package" />
       <mapping pattern="./htdocs-sp/digital-collection-prize/qfinish" type="Perl5 script" />
       <mapping pattern="qlogin_docomo" type="Perl5 script" />
