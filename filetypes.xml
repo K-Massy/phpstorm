@@ -10,6 +10,7 @@
       <mapping pattern="q" type="PLAIN_TEXT" />
       <mapping ext="tsv" type="PLAIN_TEXT" />
       <mapping ext="c4_bk" type="PLAIN_TEXT" />
+      <mapping ext="sql_" type="PLAIN_TEXT" />
       <mapping ext="c4" type="PLAIN_TEXT" />
       <mapping ext="c1" type="PLAIN_TEXT" />
       <mapping ext="ctp" type="PLAIN_TEXT" />
