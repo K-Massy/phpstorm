@@ -3,6 +3,7 @@
     <extensionMap>
       <mapping pattern="qaccount_regist" type="PLAIN_TEXT" />
       <mapping pattern="test" type="PLAIN_TEXT" />
+      <mapping pattern=".docker-compose.backend.server.web.yml.swp" type="PLAIN_TEXT" />
       <mapping pattern="qmonthly_charge_mail" type="PLAIN_TEXT" />
       <mapping pattern=".edit.ctp.swp" type="PLAIN_TEXT" />
       <mapping pattern="qmail" type="PLAIN_TEXT" />
