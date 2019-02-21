@@ -21,6 +21,7 @@
       <mapping pattern="q_deploy" type="Perl5 package" />
       <mapping pattern="./htdocs-sp/digital-collection-prize/qfinish" type="Perl5 script" />
       <mapping pattern="qlogin_docomo" type="Perl5 script" />
+      <mapping ext="netnogizaka46_sp_mail_dev_2019-02-21-14-51" type="SQL" />
       <mapping ext="c2" type="htaccess" />
     </extensionMap>
   </component>
