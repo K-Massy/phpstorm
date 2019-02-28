@@ -1,9 +1,9 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="All Places" />
-    <option name="defaultScopeName" value="All Places" />
+    <option name="customScope" value="ディレクトリ '.../repos/nogizaka46mobile-perl/view-sp/css/digital-collection - [nogizaka46-env]'" />
+    <option name="defaultScopeName" value="ディレクトリ '.../repos/nogizaka46mobile-perl/view-sp/css/digital-collection - [nogizaka46-env]'" />
     <option name="regularExpressions" value="true" />
     <option name="REGULAR_EXPRESSIONS" value="true" />
-    <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="SEARCH_SCOPE" value="ディレクトリ '.../repos/nogizaka46mobile-perl/view-sp/css/digital-collection - [nogizaka46-env]'" />
   </component>
 </application>
