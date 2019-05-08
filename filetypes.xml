@@ -1,24 +1,26 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
+      <mapping pattern="q" type="PLAIN_TEXT" />
       <mapping pattern="qaccount_regist" type="PLAIN_TEXT" />
       <mapping pattern="test" type="PLAIN_TEXT" />
+      <mapping pattern="qmail" type="PLAIN_TEXT" />
       <mapping pattern=".docker-compose.backend.server.web.yml.swp" type="PLAIN_TEXT" />
       <mapping pattern="qmonthly_charge_mail" type="PLAIN_TEXT" />
       <mapping pattern=".edit.ctp.swp" type="PLAIN_TEXT" />
-      <mapping pattern="qmail" type="PLAIN_TEXT" />
-      <mapping pattern="htdocs-sp/leaf/mymenu-inherit/q" type="PLAIN_TEXT" />
-      <mapping pattern="mail_service_log" type="PLAIN_TEXT" />
-      <mapping pattern="qmypage_mail" type="PLAIN_TEXT" />
       <mapping pattern=".keep" type="PLAIN_TEXT" />
-      <mapping pattern="q" type="PLAIN_TEXT" />
+      <mapping pattern="htdocs-sp/leaf/mymenu-inherit/q" type="PLAIN_TEXT" />
+      <mapping pattern="qmypage_mail" type="PLAIN_TEXT" />
+      <mapping pattern="mail_service_log" type="PLAIN_TEXT" />
       <mapping ext="tsv" type="PLAIN_TEXT" />
       <mapping ext="c4_bk" type="PLAIN_TEXT" />
       <mapping ext="sql_" type="PLAIN_TEXT" />
       <mapping ext="c4" type="PLAIN_TEXT" />
       <mapping ext="c1" type="PLAIN_TEXT" />
       <mapping ext="ctp" type="PLAIN_TEXT" />
+      <mapping ext="frm" type="PLAIN_TEXT" />
       <mapping ext="pl_20180905" type="PLAIN_TEXT" />
+      <mapping ext="ibd" type="PLAIN_TEXT" />
       <mapping ext="pm_20180906" type="PLAIN_TEXT" />
       <mapping pattern="q_deploy" type="Perl5 package" />
       <mapping pattern="./htdocs-sp/digital-collection-prize/qfinish" type="Perl5 script" />
