@@ -12,6 +12,7 @@
       <mapping pattern=".keep" type="PLAIN_TEXT" />
       <mapping pattern="htdocs-sp/leaf/mymenu-inherit/q" type="PLAIN_TEXT" />
       <mapping pattern="qmypage_mail" type="PLAIN_TEXT" />
+      <mapping pattern="qbody" type="PLAIN_TEXT" />
       <mapping pattern="mail_service_log" type="PLAIN_TEXT" />
       <mapping ext="tsv" type="PLAIN_TEXT" />
       <mapping ext="c4_bk" type="PLAIN_TEXT" />
